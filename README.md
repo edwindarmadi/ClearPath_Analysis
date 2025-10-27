@@ -1,6 +1,6 @@
-# ClearPath Medical Marketing Insights
+# ClearPath Marketing Insights
 
-## The goal of this project is to investigate the performance of marketing campaigns at ClearPath Medical in order to surface recommendations on marketing budget allocation across future campaign categories
+## The goal of this project is to investigate the performance of marketing campaigns at ClearPath in order to surface recommendations on marketing budget allocation across future campaign categories
 
 Founded in 2016, ClearPath is a U.S.-based medical insurance company serving thousands of customers. In 2019, they introduced marketing campaigns focused on wellness tips, affordability, and preventative care. Customers can choose from four plans—bronze, silver, gold, and platinum—offering varying premiums and coverage rates.
 
